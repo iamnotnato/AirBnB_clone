@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Joanne Gitari - [Github](https://github.com/joeygitari) 
+  
 Alan Nato - [Github](https://github.com/iamnotnato) 
 
 
