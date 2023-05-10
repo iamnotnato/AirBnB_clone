@@ -138,9 +138,9 @@ Documented commands (type help <topic>):
 ========================================
 EOF  all  create  destroy  help  quit  show  update
 
-(hbnb) all MyModel
+ all MyModel
 ** class doesn't exist **
-(hbnb) create BaseModel
+ create BaseModel
 7da56403-cc45-4f1c-ad32-bfafeb2bb050
  all BaseModel
 [[BaseModel] (7da56403-cc45-4f1c-ad32-bfafeb2bb050) {'updated_at': datetime.datetime(2017, 9, 28, 9, 50, 46, 772167), 'id': '7da56403-cc45-4f1c-ad32-bfafeb2bb050', 'created_at': datetime.datetime(2017, 9, 28, 9, 50, 46, 772123)}]
